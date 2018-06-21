@@ -1,3 +1,5 @@
 def oxford_comma(array)
-  array.join
+  array = ["cats"]
+  array = ["cats", "dogs"]
+  array.join  
 end
